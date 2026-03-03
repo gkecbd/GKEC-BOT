@@ -8,17 +8,17 @@
   "allowInbox": false,
   "notiGroup": true,
   "NOTIFICATION": true,
-  "EMAIL": "your email",
-  "PASSWORD": "your password",
+  "EMAIL": "gkecbdinfo@gmail.com",
+  "PASSWORD": "GKEC",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "BOTNAME": "GKEC BOT",
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "61586663640809",
-    "100044713412032"
+    "100023241949800",
+    "100090594511713",
+    "61580497383316"
   ],
   "NDH": ["100044713412032"],
   "adminOnly": false,
